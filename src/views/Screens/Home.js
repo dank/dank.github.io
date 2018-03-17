@@ -17,7 +17,6 @@ class Home extends Component {
           <h2 className="my-0 mx-0 mb-1">Dan Kyung</h2>
           <h4 className="text-muted my-0 mx-0 mb-2">Software Developer</h4>
           <div className="ui grid centered">
-              <Social color="#1DA1F2" icon="twitter" href="https://twitter.com/danktw"/>
             <div className="doubling five column row">
               <div className="two wide column center aligned">
                 <Social color="#007BB5" icon="linkedin in" href="https://www.linkedin.com/in/dannk" />
