@@ -3,13 +3,15 @@ import React, {Component} from 'react';
 import Me from '../Components/Me';
 import Social from '../Components/Social';
 
+import headshot from '../../assets/img/headshot.jpg';
+
 import './Home.scss';
 
 class Home extends Component {
   render() {
     return (
       <div>
-        <Me photo="https://avatars2.githubusercontent.com/u/1585101?s=460&v=4" className="face" />
+        <Me photo={headshot} className="face" />
 
         <div className="text-center">
           <h2 className="my-0 mx-0 mb-1">Dan Kyung</h2>
