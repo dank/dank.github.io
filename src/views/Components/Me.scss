@@ -1,0 +1,14 @@
+img {
+  &.Me {
+    border-radius: 50%;
+    padding: 3px;
+    background: #fff;
+
+    min-width: 125px;
+    min-height: 125px;
+    width: 125px;
+
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.25);
+    //border: 1px solid rgba(34, 36, 38, 0.15)
+  }
+}
