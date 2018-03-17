@@ -45,6 +45,7 @@ module.exports = {
                 sourceMap: false,
               }
             },
+            'postcss-loader'
           ],
           publicPath: '../'
         })),
