@@ -131,6 +131,7 @@ module.exports = {
     new ExtractTextPlugin({filename: './styles.css', disable: false, allChunks: true}),
     new webpack.HotModuleReplacementPlugin(),
     new HtmlWebpackPlugin({
+      favicon: './assets/img/favicon.ico',
       template: './index.html',
       files: {
         js: ['bundle.js']
