@@ -1,5 +1,5 @@
 ## kyung.ca / dank.github.io
 
-`npm start` - Start development server
+`yarn start` - Start development server
 
-`npm run build` - Build for production
+`yarn run build` - Build for production
