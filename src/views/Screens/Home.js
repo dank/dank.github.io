@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 import Me from '../Components/Me';
 import Social from '../Components/Social';
 
-import headshot from '../../assets/img/headshot.jpg';
+import headshot from '../../assets/img/headshot2.jpg';
 
 import './Home.scss';
 
