@@ -28,7 +28,7 @@ class Home extends Component {
                 <Social color="#C32AA3" icon="instagram" href="https://www.instagram.com/dan.kyung/" />
               </div>
               <div className="two wide column center aligned">
-                <Social color="#1DA1F2" icon="twitter" href="https://twitter.com/danktw" />
+                <Social color="#1DA1F2" icon="twitter" href="https://twitter.com/realDanKyung" />
               </div>
               <div className="two wide column center aligned">
                 <Social color="#AAAAAA" icon="envelope" href="mailto:dan@kyung.ca" />
